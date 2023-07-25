@@ -11,7 +11,7 @@ bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 Brotli==1.0.9
 bs4==0.0.1
 cachetools==4.2.1
-certifi==2020.6.20
+certifi==2023.7.22
 cffi @ file:///opt/concourse/worker/volumes/live/730e9a28-66f9-4e03-51ad-252ec8e40d81/volume/cffi_1606255126408/work
 chardet==4.0.0
 click==7.1.2
